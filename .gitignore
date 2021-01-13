@@ -1,0 +1,6 @@
+data/
+results/
+notebooks/fonts
+*.svg
+notebooks/.DS_Store
+notebooks/.ipynb_checkpoints
